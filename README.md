@@ -1,9 +1,13 @@
-Sign Language Detection using Landmarks - Python
+Sign Language Detection using Distances - Python
 -
 - In this project, the main objective is to create a model that identifies sign language alphabet letters, excluding letters that require specific movements to be identified.
 
 - It will use the coordinates of the hand landmarks found via webcam as data, with the following points as references:"
 <img width="1073" alt="hand-landmarks" src="https://github.com/joaoangnes/Sign-Language-Detection-using-Landmarks-Python/assets/74597614/b57347b6-7a5a-4132-bba2-7761222d9182">
+
+- But for this project, I only considered the distances between the fingertip points and the base of the hand, as shown by the purple lines in the following example:
+
+![exemple-distances-land-mark](https://github.com/joaoangnes/Sign-Language-Detection-using-Distances-Python/assets/74597614/b922d1c5-758f-4a35-9992-21336b977558)
 
 ## File Structure
 
@@ -22,7 +26,7 @@ CollectImages.py
 
 CreateDataSet.py
 
-    - This file retrieves all the collected images and stores the landmarks of the 20 identified points from the mediapipe library in a 'pickle' file.
+    - This file retrieves all the collected images and stores the distances of tip finger points from the mediapipe library, in a 'pickle' file.
 
 main.ipynb
 
@@ -61,4 +65,6 @@ I faced many difficulties initially in understanding how each library worked, an
 
 In summary, this project provided valuable learning opportunities, and despite some setbacks, I managed to create a model that identifies all static sign language alphabet letters.
 
-I have also created another repository that follows the same structure, but it uses the main hand landmark distances as input and inference data. Here's the link to the repository:
+I have also created another repository that follows the same structure, but it uses the main hand landmark as input and inference data. 
+
+Here's the link to the repository: https://github.com/joaoangnes/Sign-Language-Detection-using-Landmarks-Python
