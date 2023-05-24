@@ -1,4 +1,4 @@
-Detecção de Linguagem de Sinais usando Pontos de Referência - Python
+Detecção de Linguagem de Sinais usando Distâncias de Referência - Python
 -
 - Neste projeto, o objetivo principal é criar um modelo que identifique as letras do alfabeto em língua de sinais, excluindo as letras que requerem movimentos específicos para serem identificadas.
 
@@ -51,10 +51,12 @@ main.ipynb
 Modelo em funcionamento:
 
 Mão Direita:
-![Sign Language - LandMarks - Right](https://github.com/joaoangnes/Sign-Language-Detection-using-Landmarks-Python/assets/74597614/a8f5fdc1-4b3d-423c-984e-333eec675004)
+
+<img src="https://github.com/joaoangnes/Sign-Language-Detection-using-Distances-Python/assets/74597614/3beab86a-c345-44bd-ab63-0dd5746e920c" width="160">
 
 Mão Esquerda:
-![Sign Language - LandMarks - Left](https://github.com/joaoangnes/Sign-Language-Detection-using-Landmarks-Python/assets/74597614/cf5283a8-2893-4f52-9499-f9dfa5084bb1)
+
+<img src="https://github.com/joaoangnes/Sign-Language-Detection-using-Distances-Python/assets/74597614/c5031f71-09d8-4e3b-a78d-2ae60028f6d0" width="160">
 
 ## Lições Aprendidas
 
