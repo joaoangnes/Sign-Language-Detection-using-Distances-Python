@@ -5,6 +5,10 @@ Detecção de Linguagem de Sinais usando Pontos de Referência - Python
 - Irá utilizar como dados as coordendas das landmarks da mão encontrada via webcam, tendo como referências os seguintes pontos:
 <img width="1073" alt="hand-landmarks" src="https://github.com/joaoangnes/Sign-Language-Detection-using-Landmarks-Python/assets/74597614/b57347b6-7a5a-4132-bba2-7761222d9182">
 
+- Mas para esse projeto, eu considerei apenas as distancias dos pontos das pontas dos dedos e o começo da mão, conforme as linhas em roxo do exemplo a seguir:
+
+![exemple-distances-land-mark](https://github.com/joaoangnes/Sign-Language-Detection-using-Distances-Python/assets/74597614/b922d1c5-758f-4a35-9992-21336b977558)
+
 ## Estrutura dos Arquivos
 
 O repositório contém vários arquivos para treinamento do modelo de detecção. Aqui está um resumo das funcionalidades de cada arquivo:
