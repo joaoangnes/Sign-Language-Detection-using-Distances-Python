@@ -52,11 +52,11 @@ Functioning Model:
 
 Right Hand:
 
-<img src="https://github.com/joaoangnes/Sign-Language-Detection-using-Landmarks-Python/assets/74597614/921901b6-9d83-4425-82f8-15e70ff40892" width="160">
+<img src="https://github.com/joaoangnes/Sign-Language-Detection-using-Distances-Python/assets/74597614/3beab86a-c345-44bd-ab63-0dd5746e920c" width="160">
 
 Left Hand:
 
-<img src="https://github.com/joaoangnes/Sign-Language-Detection-using-Landmarks-Python/assets/74597614/04e49807-cf29-404e-8a96-d73cd92013e2" width="160">
+<img src="https://github.com/joaoangnes/Sign-Language-Detection-using-Distances-Python/assets/74597614/c5031f71-09d8-4e3b-a78d-2ae60028f6d0" width="160">
 
 ## Lessons Learned
 
